@@ -1,0 +1,27 @@
+D:\Work\CongNghe.Net\DoAn\DoAnFull\QuanLyQuanCafeApp\QuanLyQuanCafeApp\bin\Debug\QuanLyQuanCafeApp.exe.config
+D:\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\bin\Debug\QuanLyQuanCafeApp.exe.config
+D:\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\bin\Debug\QuanLyQuanCafeApp.exe
+D:\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\bin\Debug\QuanLyQuanCafeApp.pdb
+D:\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\obj\Debug\QuanLyQuanCafeApp.csprojResolveAssemblyReference.cache
+D:\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\obj\Debug\QuanLyQuanCafeApp.frm_Account.resources
+D:\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\obj\Debug\QuanLyQuanCafeApp.frm_Admin.resources
+D:\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\obj\Debug\QuanLyQuanCafeApp.Form1.resources
+D:\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\obj\Debug\QuanLyQuanCafeApp.frm_Main.resources
+D:\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\obj\Debug\QuanLyQuanCafeApp.InHoaDon.resources
+D:\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\obj\Debug\QuanLyQuanCafeApp.Properties.Resources.resources
+D:\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\obj\Debug\QuanLyQuanCafeApp.csproj.GenerateResource.Cache
+D:\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\obj\Debug\QuanLyQuanCafeApp.exe
+D:\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\obj\Debug\QuanLyQuanCafeApp.pdb
+D:\Lưu dữ liệu cài win 7 win 10\Luu\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\bin\Debug\QuanLyQuanCafeApp.exe.config
+D:\Lưu dữ liệu cài win 7 win 10\Luu\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\obj\Debug\QuanLyQuanCafeApp.exe
+D:\Lưu dữ liệu cài win 7 win 10\Luu\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\obj\Debug\QuanLyQuanCafeApp.pdb
+D:\Lưu dữ liệu cài win 7 win 10\Luu\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\bin\Debug\QuanLyQuanCafeApp.exe
+D:\Lưu dữ liệu cài win 7 win 10\Luu\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\bin\Debug\QuanLyQuanCafeApp.pdb
+D:\Lưu dữ liệu cài win 7 win 10\Luu\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\obj\Debug\QuanLyQuanCafeApp.csprojResolveAssemblyReference.cache
+D:\Lưu dữ liệu cài win 7 win 10\Luu\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\obj\Debug\QuanLyQuanCafeApp.frm_Account.resources
+D:\Lưu dữ liệu cài win 7 win 10\Luu\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\obj\Debug\QuanLyQuanCafeApp.frm_Admin.resources
+D:\Lưu dữ liệu cài win 7 win 10\Luu\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\obj\Debug\QuanLyQuanCafeApp.Form1.resources
+D:\Lưu dữ liệu cài win 7 win 10\Luu\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\obj\Debug\QuanLyQuanCafeApp.frm_Main.resources
+D:\Lưu dữ liệu cài win 7 win 10\Luu\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\obj\Debug\QuanLyQuanCafeApp.InHoaDon.resources
+D:\Lưu dữ liệu cài win 7 win 10\Luu\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\obj\Debug\QuanLyQuanCafeApp.Properties.Resources.resources
+D:\Lưu dữ liệu cài win 7 win 10\Luu\Đồ án tốt nghiệp thực tập nghề nghiệp\Đồ án người khác\QuanLyQuanCafe-master\QuanLyQuanCafe-master\obj\Debug\QuanLyQuanCafeApp.csproj.GenerateResource.Cache
